@@ -1,0 +1,94 @@
+.bimage {
+  background: url("https://cdn.slidemodel.com/wp-content/uploads/7382-01-duotone-gradients-powerpoint-templates-16x9-4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+}
+
+header {
+  height: 100%;
+}
+
+.navbar-nav {
+  color: white;
+}
+
+.bimage2 {
+  background: url("https://images.unsplash.com/photo-1557682224-5b8590cd9ec5?ixlib=rb-1.2.1&w=1000&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  
+}
+
+
+.rounded-img {
+  border-radius: 50%;
+}
+
+.card-pos {
+  position: absolute;
+}
+
+
+.button-pos{
+  width: 86%;
+  bottom: -15px;
+}
+
+/* .card{
+  position: absolute;
+  height: 200px;
+  
+} */
+
+.card-top{
+  background-color: transparent;
+  width: 18rem;
+  bottom: -5vh;
+  border-style: none;
+}
+
+.row-line{
+  border-top: 1px;
+  border-style: solid;
+  border-color: black;
+}
+
+.div-line{
+  border-top: 5px;
+  border-bottom: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-style: solid;
+  border-color: black;
+}
+
+.pad-use{
+  margin-left: 8%;
+  margin-right: 8%;
+}
+
+.mar-top{
+  margin-top: 12%;
+  margin-bottom: 12%;
+}
+
+.bimage3{
+  background: url(https://i.pinimg.com/originals/9d/07/46/9d0746fbe573f9b7a86ecd3d8b8fb364.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.img-fluid{
+  height: 55%;
+}
+.img-thumbnail{
+  max-width: 50%;
+  max-height: 50%;
+  height: 400px;
+  width: 400px;
+}
